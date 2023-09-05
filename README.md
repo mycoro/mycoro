@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mycoro
-- 👀 I’m interested in game-related projects, software engineering
+- 👀 I’m interested in video game-related projects, software engineering
 - 🌱 I’m currently learning data structures and algorithms and LINUX system
 - 💞️ I’m looking to collaborate on anything that I will be able to learn from and to build my portfolio!
 - 📫 How to reach me: by email: mayracoronilla9@gmail.com
