@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @mycoro
+- 👋 Hi, I’m Mayra Coronilla
 - 👀 I’m interested in video game-related projects, software engineering
-- 🌱 I’m currently learning data structures and algorithms, LINUX system, and python
+- 🌱 I’m currently learning programming language concepts, computer organization, Linear Algebra, Calculus 2 in my TCU courses
+  and Web Development with CodePath
 - 💞️ I’m looking to collaborate on anything that I will be able to learn from and to build my portfolio!
 - 📫 How to reach me: by email: mayracoronilla9@gmail.com
 
